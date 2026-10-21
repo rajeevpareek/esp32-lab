@@ -1,0 +1,30 @@
+
+74:6d:fa:2b:6d:7f  [public/real]  -85 dBm
+  mfr        : Samsung (0x0075), 26 bytes
+  raw        : 7500021844A1F8847E95FC8CEA26369C2C14CD643678DBB24170
+
+41:9d:d6:e6:1a:a8  [random]  -65 dBm
+  txPower    : 12 dBm
+  mfr        : Apple (0x004C), 10 bytes
+  apple-type : Nearby-info (iPhone/Watch/Mac)
+  raw        : 4C0010063E1E665E8DF0
+
+c0:7c:8a:96:52:59  [random]  -62 dBm
+  mfr        : Apple (0x004C), 29 bytes
+  apple-type : Find My
+  raw        : 4C00121900B15561CA5DA14133542F264A986E650D553E462C8FB80200
+
+c1:aa:87:86:a1:8d  [random]  -76 dBm
+  mfr        : Apple (0x004C), 6 bytes
+  apple-type : Find My
+  raw        : 4C0012020001
+
+80:0d:3f:a1:bc:c9  [public/real]  -98 dBm
+  mfr        : Samsung (0x0075), 26 bytes
+  raw        : 75004204018046800D3FA1BCC9820D3FA1BCC801020000000000
+
+
+
+
+
+
