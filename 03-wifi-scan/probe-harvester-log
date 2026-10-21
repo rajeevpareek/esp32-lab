@@ -1,0 +1,19 @@
+22:57:35.367 -> 
+22:57:35.367 -> ==== 65 probes | 16 unique (device, network) pairs ====
+22:57:35.367 -> device MAC         vnd    seen  rssi  looking-for
+22:57:35.367 -> 5c:e9:31:f4:31:a1            6   -93  Airtel_amit_3272
+22:57:35.367 -> e2:2e:ed:85:27:de  rand      1   -37  Rajeev's iPhone
+22:57:35.367 -> 42:aa:35:b1:d4:97  rand      1   -37  Rajeev's iPhone
+22:57:35.367 -> aa:97:e9:19:36:54  rand      2   -45  Rajeev's iPhone
+22:57:35.427 -> ee:59:06:64:5d:90  rand      1   -46  Rajeev's iPhone
+22:57:35.427 -> ca:ff:4f:eb:ca:f2  rand      2   -37  Rajeev's iPhone
+22:57:35.427 -> da:0d:e7:ac:e0:ed  rand      2   -48  Rajeev's iPhone
+22:57:35.427 -> 96:02:37:18:3c:b6  rand      1   -38  Rajeev's iPhone
+22:57:35.427 -> ca:f8:85:8b:e7:c0  rand      2   -46  Rajeev's iPhone
+22:57:35.427 -> 62:82:fc:8c:c9:cf  rand      2   -46  Rajeev's iPhone
+22:57:35.427 -> e6:d3:ae:32:5a:56  rand      2   -38  Rajeev's iPhone
+22:57:35.431 -> 5a:61:37:41:1d:98  rand      4   -97  TATA PLAY
+22:57:35.431 -> fa:fe:e6:b4:87:30  rand      2   -39  Rajeev's iPhone
+22:57:35.431 -> 6e:fe:06:87:e8:c8  rand      1   -36  Rajeev's iPhone
+22:57:35.431 -> d6:5d:c2:f5:7a:43  rand      1   -89  Rajeev's iPhone
+22:57:35.431 -> b2:ea:8d:94:52:f1  rand      2   -37  Rajeev's iPhone
