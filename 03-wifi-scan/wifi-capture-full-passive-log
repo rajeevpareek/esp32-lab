@@ -1,0 +1,178 @@
+st:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+Capture tool v4 running...
+
+======== frames:707 dropped:185 devices:66 ch:1 ========
+
+-- ACCESS POINTS --
+BSSID              rssi ch  vendor       SSID
+78:bb:c1:22:ef:01   -94  6               Airtel_krit_7888
+44:63:c2:53:8f:8e   -95  6               Airtel_amal_3626
+62:bb:c1:d7:22:e3   -91  6  randomised   EPM Fibre
+62:bd:2c:16:38:89   -89  6  randomised   Airtel_Sopu11F_5G
+62:bd:2c:46:38:89   -90  6  randomised   
+60:bd:2c:26:38:89   -88  6  Airtel       Airtel_Sopu11F
+0e:36:23:82:9e:f9   -93  6  randomised   Airtel_kris_1553
+6c:4f:89:30:e1:6d   -89  6  router       Airtel_viml_4977
+76:fe:ce:25:d3:86   -92  6  randomised   
+6c:4f:89:b4:fd:0f   -96  6  router       Airtel_Vaibhav 17B
+42:33:06:c2:58:11   -99 11  randomised   
+20:0c:86:4d:ea:11   -94 11  router       C-16F SITI
+e0:d3:62:1a:b7:72   -66 11  router-ext   Parknet_EXT
+b0:be:76:59:63:1c   -64 11  ISP-router   Parknet
+f0:ed:b8:2d:66:61   -95 11  router       Airtel_sidd_8517
+8c:a3:99:e8:7a:b9   -93 11  router       Airtel_krit_7888
+56:37:bb:17:50:f9   -80  1  randomised   IronManJarvis_5G
+54:37:bb:57:50:f9   -77  1  router       IronManJarvis
+b4:a7:c6:bd:5c:38   -82  1  router       Agarwal_4G
+56:37:bb:47:50:f9   -81  1  randomised   
+80:ea:0b:c1:2f:f8   -95  1               Airtel_Zerotouch
+b4:86:18:57:56:03   -90  1               Airtel_akas_8041
+b2:10:07:c3:23:66   -93 11  randomised   JioFiber-8PsNa
+2e:c1:f4:28:d9:9a   -95 11  randomised   Airtel_sidh_1292
+20:0c:86:74:77:21   -96 11  router       Airtel_anan_5944
+f8:0d:a9:ef:24:d3   -90  6               Airtel_Modi
+40:33:06:e2:58:11   -98 11               Introspection2.4
+0e:36:23:1f:16:a9   -94 11  randomised   Airtel_shub_4698
+
+-- CLIENTS --
+MAC                rssi ch  vendor       data  -> AP / probing-for
+14:98:77:38:4e:7e   -40 11  Apple          41  -> b0:be:76:59:63:1c
+6e:ba:67:f6:bd:98   -96 11  randomised      1  -> 20:a3:36:3b:52:10
+40:ca:63:70:bb:f0   -96 11                  2  -> ec:a2:a0:d5:26:e9
+4a:c6:9f:1b:a5:10   -25 11  randomised     52  -> b0:be:76:59:63:1c
+24:af:58:8b:10:fb   -86  1                  1  -> 17:d7:e1:fd:df:72
+b1:0a:47:1f:37:58   -87  1                  0  
+0b:34:a6:0e:35:f9   -89  6  randomised      0  
+34:af:b3:5e:35:83   -73 11                  4  -> e0:d3:62:1a:b7:72
+e2:d3:62:0a:b7:72   -65 11  randomised      1  -> b0:be:76:59:63:1c
+7f:d7:be:17:48:3d   -86  1  randomised      1  -> fe:05:45:ea:8a:ed
+ba:be:ca:6e:62:d5   -94  6  randomised      0  
+43:4c:40:e2:1f:c8   -89  6  randomised      1  -> da:29:27:a6:e1:b9
+08:23:2a:8f:c4:3b   -77  6                  0  
+8b:92:cf:d4:18:d2   -62  6  randomised      0  
+79:1c:8e:cb:36:23   -63  6                  1  -> 64:fa:f0:1f:5a:89
+90:e5:73:a4:c3:68   -92  6                  1  -> 9d:82:57:44:b2:e4
+59:fc:e7:c6:00:32   -90  1                  0  
+80:bb:b9:e5:2f:a3   -63  6                  0  
+6c:4f:89:d4:ad:0c   -93  6  router          1  -> 60:0d:f5:39:0c:17
+79:73:ac:c4:2f:19   -94  6                  1  -> 9e:1f:a0:dc:08:7d
+2e:fc:a6:2d:d9:9a   -95 11  randomised      0  
+80:7e:26:90:fe:21   -92 11                  0  
+68:86:91:5e:ca:19   -94 11                  0  
+e7:e0:46:6d:8f:60   -93 11  randomised      0  
+6e:bd:1d:9d:ca:88   -91  1  randomised      0  
+a2:76:58:fd:58:d2   -92  1  randomised      0  
+9c:53:22:0a:56:27   -91  1                  1  -> a2:83:94:ee:ee:19
+c7:05:d6:11:a5:82   -87  1  randomised      0  
+f0:d2:d1:2d:83:d5   -86  1                  0  
+7c:ba:e2:87:ea:4d   -88  1                  0  
+ed:09:7e:2d:0d:ba   -86  1                  0  
+ab:a0:75:e2:a0:57   -87  1  randomised      1  -> 58:b6:df:cd:44:c1
+d4:58:c6:32:c7:5c   -80  1                  0  
+e9:ff:f4:2b:c4:c5   -89  6                  0  
+ba:d3:df:7b:43:15   -93 11  randomised      0  
+4c:36:4e:19:5b:90   -96  1                  1  -> 54:37:bb:57:50:f0
+63:fe:56:29:97:a2   -89  1  randomised      0  
+ff:fd:38:23:48:ef   -92  1  randomised      0  
+5f:3d:ad:0a:e9:cb   -93  1  randomised      0  
+9b:d7:8c:07:ad:d8   -94  1  randomised      1  -> d8:86:be:4f:90:0b
+
+[deauth frames seen: 0]
+
+======== frames:1521 dropped:354 devices:80 ch:6 ========
+
+-- ACCESS POINTS --
+BSSID              rssi ch  vendor       SSID
+78:bb:c1:22:ef:01   -96  6               Airtel_krit_7888
+44:63:c2:53:8f:8e   -95  6               Airtel_amal_3626
+62:bb:c1:d7:22:e3   -92  6  randomised   EPM Fibre
+62:bd:2c:16:38:89   -89  6  randomised   Airtel_Sopu11F_5G
+62:bd:2c:46:38:89   -89  6  randomised   
+60:bd:2c:26:38:89   -89  6  Airtel       Airtel_Sopu11F
+0e:36:23:82:9e:f9   -91  6  randomised   Airtel_kris_1553
+6c:4f:89:30:e1:6d   -91  6  router       Airtel_viml_4977
+76:fe:ce:25:d3:86   -92  6  randomised   
+6c:4f:89:b4:fd:0f   -95  6  router       Airtel_Vaibhav 17B
+42:33:06:c2:58:11   -96 11  randomised   
+20:0c:86:4d:ea:11   -95 11  router       C-16F SITI
+e0:d3:62:1a:b7:72   -65 11  router-ext   Parknet_EXT
+b0:be:76:59:63:1c   -66 11  ISP-router   Parknet
+f0:ed:b8:2d:66:61   -94 11  router       Airtel_sidd_8517
+8c:a3:99:e8:7a:b9   -92 11  router       Airtel_krit_7888
+56:37:bb:17:50:f9   -79  1  randomised   IronManJarvis_5G
+54:37:bb:57:50:f9   -79  1  router       IronManJarvis
+b4:a7:c6:bd:5c:38   -82  1  router       Agarwal_4G
+56:37:bb:47:50:f9   -78  1  randomised   
+80:ea:0b:c1:2f:f8   -96  1               Airtel_Zerotouch
+b4:86:18:57:56:03   -92  1               Airtel_akas_8041
+b2:10:07:c3:23:66   -95 11  randomised   JioFiber-8PsNa
+2e:c1:f4:28:d9:9a   -93 11  randomised   Airtel_sidh_1292
+20:0c:86:74:77:21   -95 11  router       Airtel_anan_5944
+f8:0d:a9:ef:24:d3   -95  6               Airtel_Modi
+40:33:06:e2:58:11   -95 11               Introspection2.�
+0e:36:23:1f:16:a9   -95 11  randomised   Aiԫ`;}Q�h6698
+74:7e:17:95:d3:86   -91  6               Pawan poddar
+74:fe:ce:95:d3:86   -93  6               Pawan poddar
+0e:36:23:82:97:f9   -91  6  randomised   Airtel_kris_1553
+
+-- CLIENTS --
+MAC                rssi ch  vendor       data  -> AP / probing-for
+14:98:77:38:4e:7e   -40 11  Apple         128  -> b0:be:76:59:63:1c
+6e:ba:67:f6:bd:98   -96 11  randomised      1  -> 20:a3:36:3b:52:10
+40:ca:63:70:bb:f0   -96 11                  2  -> ec:a2:a0:d5:26:e9
+4a:c6:9f:1b:a5:10   -26 11  randomised    116  -> b0:be:76:59:63:1c
+24:af:58:8b:10:fb   -86  1                  1  -> 17:d7:e1:fd:df:72
+b1:0a:47:1f:37:58   -87  1                  0  
+0b:34:a6:0e:35:f9   -89  6  randomised      0  
+34:af:b3:5e:35:83   -75 11                  5  -> e0:d3:62:1a:b7:72
+e2:d3:62:0a:b7:72   -65 11  randomised      5  -> b0:be:76:59:63:1c
+7f:d7:be:17:48:3d   -86  1  randomised      1  -> fe:05:45:ea:8a:ed
+ba:be:ca:6e:62:d5   -94  6  randomised      0  
+43:4c:40:e2:1f:c8   -89  6  randomised      1  -> da:29:27:a6:e1:b9
+08:23:2a:8f:c4:3b   -77  6                  0  
+8b:92:cf:d4:18:d2   -62  6  randomised      0  
+79:1c:8e:cb:36:23   -63  6                  1  -> 64:fa:f0:1f:5a:89
+90:e5:73:a4:c3:68   -92  6                  1  -> 9d:82:57:44:b2:e4
+59:fc:e7:c6:00:32   -90  1                  0  
+80:bb:b9:e5:2f:a3   -63  6                  0  
+6c:4f:89:d4:ad:0c   -93  6  router          1  -> 60:0d:f5:39:0c:17
+79:73:ac:c4:2f:19   -94  6                  1  -> 9e:1f:a0:dc:08:7d
+2e:fc:a6:2d:d9:9a   -95 11  randomised      0  
+80:7e:26:90:fe:21   -92 11                  0  
+68:86:91:5e:ca:19   -94 11                  0  
+e7:e0:46:6d:8f:60   -93 11  randomised      0  
+6e:bd:1d:9d:ca:88   -91  1  randomised      0  
+a2:76:58:fd:58:d2   -92  1  randomised      0  
+9c:53:22:0a:56:27   -91  1                  1  -> a2:83:94:ee:ee:19
+c7:05:d6:11:a5:82   -87  1  randomised      0  
+f0:d2:d1:2d:83:d5   -86  1                  0  
+7c:ba:e2:87:ea:4d   -88  1                  0  
+ed:09:7e:2d:0d:ba   -86  1                  0  
+ab:a0:75:e2:a0:57   -87  1  randomised      1  -> 58:b6:df:cd:44:c1
+d4:58:c6:32:c7:5c   -80  1                  0  
+e9:ff:f4:2b:c4:c5   -89  6                  0  
+ba:d3:df:7b:43:15   -93 11  randomised      0  
+4c:36:4e:19:5b:90   -96  1                  1  -> 54:37:bb:57:50:f0
+63:fe:56:29:97:a2   -89  1  randomised      0  
+ff:fd:38:23:48:ef   -92  1  randomised      0  
+5f:3d:ad:0a:e9:cb   -93  1  randomised      0  
+9b:d7:8c:07:ad:d8   -94  1  randomised      1  -> d8:86:be:4f:90:0b
+79:bd:2c:16:38:89   -89  6                  1  -> 60:bd:2c:26:38:80
+27:cc:eb:4a:54:c4   -92  1  randomised      0  
+18:98:7f:5c:17:02   -86  1                  1  -> f4:e4:64:45:8c:57
+23:f2:19:cc:89:ab   -85  1  randomised      0  
+a0:ea:3e:cd:8b:e9   -91  1                  1  -> d2:27:76:aa:5c:52
+2c:aa:40:2e:5d:dd   -94  6                  0  
+87:56:da:d2:79:fa   -88  6  randomised      0  
+a5:f7:f9:7a:84:05   -94 11                  0  
+60:7e:a4:cd:9b:4f   -93  1                  1  -> 54:37:bb:57:50:f0
+
+[deauth frames seen: 0]
