@@ -1,0 +1,115 @@
+
+Scanning (incl. hidden)...
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+Wi-Fi deep scanner ready
+
+Scanning (incl. hidden)...
+24 networks found
+
+[ 1] Parknet_EXT              
+     RSSI -65 dBm | ch 11 | WPA2
+     BSSID E0:D3:62:1A:B7:72
+
+[ 2] Parknet                  
+     RSSI -67 dBm | ch 11 | WPA/WPA2
+     BSSID B0:BE:76:59:63:1C
+
+[ 3] Agarwal_4G               
+     RSSI -81 dBm | ch 1 | WPA2
+     BSSID B4:A7:C6:BD:5C:38
+
+[ 4] IronManJarvis_5G         
+     RSSI -81 dBm | ch 1 | WPA/WPA2
+     BSSID 56:37:BB:17:50:F9
+
+[ 5] IronManJarvis            
+     RSSI -82 dBm | ch 1 | WPA/WPA2
+     BSSID 54:37:BB:57:50:F9
+
+[ 6] <hidden>                 (no SSID broadcast)
+     RSSI -83 dBm | ch 1 | WPA2
+     BSSID 56:37:BB:47:50:F9
+
+[ 7] Airtel_Sopu11F           
+     RSSI -89 dBm | ch 6 | WPA/WPA2
+     BSSID 60:BD:2C:26:38:89
+
+[ 8] EPM Fibre                
+     RSSI -90 dBm | ch 6 | WPA2
+     BSSID 62:BB:C1:D7:22:E3
+
+[ 9] Airtel_viml_4977         
+     RSSI -90 dBm | ch 6 | WPA2
+     BSSID 6C:4F:89:30:E1:6D
+
+[10] Airtel_kris_1553         
+     RSSI -91 dBm | ch 6 | WPA2
+     BSSID 0E:36:23:82:9E:F9
+
+[11] Airtel_Sopu11F_5G        
+     RSSI -91 dBm | ch 6 | WPA/WPA2
+     BSSID 62:BD:2C:16:38:89
+
+[12] <hidden>                 (no SSID broadcast)
+     RSSI -91 dBm | ch 6 | WPA2
+     BSSID 62:BD:2C:46:38:89
+
+[13] Karan Gupta_2.4G         
+     RSSI -91 dBm | ch 8 | WPA/WPA2
+     BSSID 40:33:06:94:0C:E9
+
+[14] Airtel_krit_7888         
+     RSSI -93 dBm | ch 6 | WPA/WPA2
+     BSSID 78:BB:C1:22:EF:01
+
+[15] <hidden>                 (no SSID broadcast)
+     RSSI -93 dBm | ch 7 | WPA2
+     BSSID 76:FE:CE:25:D3:86
+
+[16] <hidden>                 (no SSID broadcast)
+     RSSI -93 dBm | ch 8 | WPA2
+     BSSID 42:33:06:C4:0C:E9
+
+[17] Airtel_akas_8041         
+     RSSI -94 dBm | ch 1 | WPA/WPA2
+     BSSID B4:86:18:57:56:03
+
+[18] Airtel_abhi_4445         
+     RSSI -94 dBm | ch 6 | WPA/WPA2
+     BSSID 5C:8C:30:1E:D2:E9
+
+[19] Pawan poddar             
+     RSSI -94 dBm | ch 7 | WPA2
+     BSSID 74:FE:CE:95:D3:86
+
+[20] <hidden>                 (no SSID broadcast)
+     RSSI -95 dBm | ch 6 | WPA2
+     BSSID 5E:8C:30:4E:D2:E9
+
+[21] Airtel_krit_7888         
+     RSSI -95 dBm | ch 11 | WPA/WPA2
+     BSSID 8C:A3:99:E8:7A:B9
+
+[22] JioFiber-8PsNa           
+     RSSI -95 dBm | ch 11 | WPA2
+     BSSID B2:10:07:C3:23:66
+
+[23] Airtel_amal_3626         
+     RSSI -96 dBm | ch 6 | WPA2
+     BSSID 44:63:C2:53:8F:8E
+
+[24] C-16F SITI               
+     RSSI -97 dBm | ch 11 | WPA/WPA2
+     BSSID 20:0C:86:4D:EA:11
+
+(Tip: same SSID with different BSSIDs = mesh/repeater)
