@@ -1,0 +1,37 @@
+Board Info Output
+
+load:0x40080400,len:3500
+entry 0x400805b4
+
+
+========== ESP32 BOARD REPORT ==========
+----------------------------------------
+CHIP
+  Model          : ESP32-D0WD-V3
+  Revision       : 301
+  Cores          : 2
+  CPU freq       : 240 MHz
+  Features       : WiFi BT BLE 
+----------------------------------------
+FLASH
+  Flash size     : 4 MB
+  Flash speed    : 80 MHz
+----------------------------------------
+MEMORY
+  Total heap     : 370036 bytes
+  Free heap      : 323396 bytes
+  Min free heap  : 291384 bytes
+  PSRAM size     : 0 bytes
+  Free PSRAM     : 0 bytes
+----------------------------------------
+FIRMWARE
+  ESP-IDF ver    : v5.5.5
+  Sketch size    : 352608 bytes
+  Free sketch sp : 1310720 bytes
+----------------------------------------
+IDENTITY
+  WiFi STA MAC   : 20:50:0D:CF:65:AC
+  Bluetooth MAC  : 20:50:0D:CF:65:AE
+  eFuse MAC (ID) : AC65CF0D5020
+----------------------------------------
+========== END OF REPORT ==========
